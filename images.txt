@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+apache/seata-server:2.1.0
