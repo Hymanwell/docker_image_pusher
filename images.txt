@@ -1,13 +1,1 @@
-mysql:5.7
-redis:7
-nginx:1.22
-rabbitmq:3.9-management
-elasticsearch:7.17.3
-elasticsearch:8.15.0
-logstash:7.17.3
-logstash:8.15.0
-kibana:7.17.3
-kibana:8.15.0
-mongo:4
-minio/minio
-mysql:8.4.2
+ghcr.io/open-webui/open-webui:main
