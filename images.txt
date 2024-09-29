@@ -1,2 +1,2 @@
-apache/skywalking-oap-server:8.9.1
-apache/skywalking-ui:8.9.1
+elastic/filebeat:7.17.3
+elastic/filebeat:8.15.0
