@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.3.2
+apache/seata-server:2.2.0
