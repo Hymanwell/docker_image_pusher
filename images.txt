@@ -1,1 +1,1 @@
-bladex/sentinel-dashboard:1.8.6
+rabbitmq:3.13.7
