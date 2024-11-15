@@ -1,9 +1,1 @@
-mysql:8.0.33
-nacos/nacos-server:2.0.3
-minio/minio:RELEASE.2022-01-04T07-41-07Z
-elasticsearch:7.10.1
-kibana:7.10.1
-rabbitmq:3.7.15-management
-redis:5.0.14
-seataio/seata-server:1.6.1
-nginx:1.24.0
+wagoodman/dive:v0.12
