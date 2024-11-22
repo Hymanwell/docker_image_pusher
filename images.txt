@@ -1,1 +1,2 @@
-wagoodman/dive:v0.12
+apache/skywalking-oap-server:8.9.1
+apache/skywalking-ui:8.9.1
