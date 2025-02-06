@@ -1,1 +1,1 @@
-yyxx/openvpn:v1.1.6
+padhihomelab/openvpn-client:2.6.12
