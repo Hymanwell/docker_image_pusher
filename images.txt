@@ -1,1 +1,1 @@
-padhihomelab/openvpn-client:2.6.12
+redis/redis-stack:6.2.6-v19
