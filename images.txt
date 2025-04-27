@@ -1,1 +1,1 @@
-jenkins:2.60.3
+registry.k8s.io/descheduler/descheduler:v0.32.0
