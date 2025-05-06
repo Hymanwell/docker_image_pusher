@@ -1,1 +1,1 @@
-registry.k8s.io/descheduler/descheduler:v0.32.0
+mysql:5.7.26
