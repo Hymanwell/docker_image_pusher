@@ -1,1 +1,1 @@
-runyf/hs-admin:v2.5
+jmal/headscale-webui
