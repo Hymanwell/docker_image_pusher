@@ -1,1 +1,2 @@
-headscale/headscale:0.22.3
+headscale/headscale:0.22.0
+ghcr.io/gurucomputing/headscale-ui:2023.01.30-beta-1
