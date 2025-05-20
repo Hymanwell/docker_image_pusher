@@ -1,1 +1,1 @@
-jmal/headscale-webui
+headscale/headscale:0.22.3
