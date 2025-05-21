@@ -1,2 +1,1 @@
-headscale/headscale:0.22.0
-ghcr.io/gurucomputing/headscale-ui:2023.01.30-beta-1
+ghcr.io/yangchuansheng/ip_derper
