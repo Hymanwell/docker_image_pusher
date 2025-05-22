@@ -1,1 +1,1 @@
-headscale/headscale:v0.25.0
+headscale/headscale:v0.25
