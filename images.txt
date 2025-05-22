@@ -1,1 +1,1 @@
-docker.io/fredliang/derper:latest
+headscale/headscale:v0.25.0
