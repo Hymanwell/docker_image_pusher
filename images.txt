@@ -1,1 +1,1 @@
-tailscale/tailscale
+tailscale/tailscale:v1.82.5
