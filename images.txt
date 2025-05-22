@@ -1,1 +1,1 @@
-tailscale/tailscale:v1.82.5
+ghcr.io/yangchuansheng/derper:latest
