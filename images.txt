@@ -1,2 +1,2 @@
-apache/skywalking-oap-server:8.9.0
-apache/skywalking-ui:8.9.0
+apache/kafka:3.9.0
+provectuslabs/kafka-ui:v0.7.2
