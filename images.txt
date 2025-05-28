@@ -1,2 +1,1 @@
-apache/kafka:3.9.0
-provectuslabs/kafka-ui:v0.7.2
+jenkins/jenkins:2.512-jdk17
