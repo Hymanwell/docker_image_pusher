@@ -1,1 +1,1 @@
-jenkinsci/blueocean:1.25.7
+openjdk:17
