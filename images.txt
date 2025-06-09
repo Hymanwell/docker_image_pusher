@@ -1,1 +1,2 @@
-uozi/nginx-ui:2.1.1
+registry:2
+joxit/docker-registry-ui:static
