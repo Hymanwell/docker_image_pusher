@@ -1,1 +1,1 @@
-6053537/portainer-ce:2.24.1
+maven:3.8.5-openjdk-17
