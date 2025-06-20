@@ -1,1 +1,2 @@
-maven:3.8.5-openjdk-17
+bellsoft/liberica-openjdk-debian:8u452-cds
+maven:3.8.5-openjdk-8
