@@ -1,2 +1,1 @@
-bellsoft/liberica-openjdk-debian:8u452-cds
-maven:3.8.5-openjdk-8
+qdrant/qdrant:v1.15.2
