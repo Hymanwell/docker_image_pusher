@@ -1,1 +1,1 @@
-docker pull searxng/searxng:2025.9.1-b93cc2f
+docker pull searxng/searxng:2025.9.1-501327d
