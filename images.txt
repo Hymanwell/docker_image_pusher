@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.15.2
+docker pull searxng/searxng:2025.9.1-b93cc2f
