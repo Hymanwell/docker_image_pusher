@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.33.0-rc.1-2558d41.arm64
+semitechnologies/weaviate:1.32.5-ea3c058.arm64
