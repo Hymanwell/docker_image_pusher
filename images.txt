@@ -1,1 +1,1 @@
-searxng/searxng:2025.9.1-501327d
+semitechnologies/weaviate:1.32.5-35072ba.arm64
