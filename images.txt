@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.32.5-59d6115
+mongo:8.0.13
