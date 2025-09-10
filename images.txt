@@ -1,1 +1,1 @@
-paddleocr/paddleocr:latest
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddle:3.1.0-jupyter
