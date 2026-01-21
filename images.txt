@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/wg-easy/wg-easy:15
+linuxserver/wireguard
