@@ -1,1 +1,1 @@
-openwebui/open-webui:0.8
+deepseek-ocr-2:v1
