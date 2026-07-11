@@ -1,1 +1,1 @@
-deepseek-ocr-2:v1
+jenkins/jenkins:2.568.1
