@@ -142,14 +142,11 @@ jobs:
             echo "docker tag $image $new_image"
             echo "<--- 添加 description 开始 --->"
             echo "# 创建临时 Dockerfile，将 description 设为原始仓库地址"
-            cat > Dockerfile.tmp << EOF
-            FROM $image
-            LABEL maintainer="your-team@example.com"
-            LABEL version="${image_name_tag}"
-            echo "<--- 修改点：description 直接使用原始镜像地址 --->"
-            LABEL description="${image}"
-            LABEL source_platform="${platform:-default}"
-            EOF
+            echo "FROM $image" > Dockerfile.tmp
+            echo 'LABEL maintainer="hmnhub@qq.com"' >> Dockerfile.tmp
+            echo "LABEL version=\"${image_name_tag}\"" >> Dockerfile.tmp
+            echo "LABEL description=\"${image}\"" >> Dockerfile.tmp
+            echo "LABEL source_platform=\"${platform:-default}\"" >> Dockerfile.tmp
   
             # 使用 docker build 重新构建，打上 new_image 标签
             docker build -f Dockerfile.tmp -t $new_image .
