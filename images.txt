@@ -1,1 +1,1 @@
-doocs/md:2.1.0
+cr.fluentbit.io/fluent/fluent-bit:4.2.0
